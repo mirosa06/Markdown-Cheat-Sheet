@@ -27,10 +27,10 @@ ___
 > This is a quote
 
 <!-- Links -->
-[Traversy Media](http://traversymedia.com)
+[google](https://www.google.com/)
 
 <!-- Links -->
-[Traversy Media](http://traversymedia.com "Traversy Media")
+[google](https://www.google.com "google")
 
 <!-- UL -->
 * 1st item
